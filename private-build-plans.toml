@@ -1,0 +1,12 @@
+[buildPlans.IosevkaCustomNoLigatures]
+family = "Iosevka Custom No Ligatures"
+spacing = "normal"
+serifs = "sans"
+noCvSs = false
+exportGlyphNames = true
+noLigation = true
+
+[buildPlans.IosevkaCustomNoLigatures.widths.Normal]
+shape = 600
+menu = 5
+css = "normal"
